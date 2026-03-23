@@ -699,6 +699,7 @@ body {
             backdrop-filter: blur(15px);
             position: relative;
             overflow: hidden;
+           height: auto;
         }
 
         /* GLOW BORDER EFFECT */
